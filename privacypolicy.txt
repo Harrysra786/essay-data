@@ -1,0 +1,21 @@
+Privacy Policy for Biggest IELTS Essay Collection
+Last updated: January 11, 2025
+Introduction
+This privacy policy explains how we handle information in the Android application "Biggest IELTS Essay Collection." We are committed to protecting your privacy and ensuring transparency about our data practices.
+Information Collection and Use
+Our app does not collect, store, or transmit any personal information. The app is fully self-contained and operates entirely offline on your device.
+Data Storage
+All content is stored locally on your device as part of the app installation. No external storage or cloud synchronization is used.
+Internet Access
+This app does not require internet access to function. It operates completely offline.
+Third-Party Services
+We do not use any third-party services, analytics, or advertising platforms in this app.
+Children's Privacy
+Our app does not collect any personal information from anyone, including children under the age of 13.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+ieltshubdeveloper@gmail.com
+This privacy policy is effective as of January 11, 2025.
+
